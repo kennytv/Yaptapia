@@ -2,6 +2,11 @@
 
 This list aims at collecting concrete evidence of larger missteps of the Yatopia project and its members. While every developer will at some point make an unforgiving mistake or give an unflattering comment, the points below should depict a clear regularity and severity to their mistakes.
 
+## Yatopia Is No More
+On the 19th of June, [Yatopia was announced to be discontinued](https://i.imgur.com/M5fl4bX.png). While this is an unfortunate end to the project, I respect the decision to do so. This page will now serve as a reminder to everyone blindly jumping on the next "high performance" server fork without doing their own research.
+
+A good example of a new fork you **should under no circumstances use** is SugarcaneMC, already showing the same issues Yatopia has had, but **amplified to be considerably worse** from the very beginning.
+
 ## Disclaimer
 Please do not harass Yatopia project members or users, that is far from the intent of this document. Its purpose is not to personally attack the team — I am sure they are nice people and they do not deserve to get unnecessarily spammed — but to warn users. Kindly make them aware of the shortcomings of Yatopia and potentially suggest they switch to [Tuinity](https://github.com/Tuinity/Tuinity) instead; do not do that on the Yatopia Discord either unless it naturally comes up in conversation.
 
