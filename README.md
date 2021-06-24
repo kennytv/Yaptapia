@@ -5,7 +5,7 @@ This list aims at collecting concrete evidence of larger missteps of the Yatopia
 ## Yatopia Is No More
 On the 19th of June, [Yatopia was announced to be discontinued](https://i.imgur.com/M5fl4bX.png). While this is an unfortunate end to the project, I respect the decision to do so. This page will now serve as a reminder to everyone blindly jumping on the next "high performance" server fork without doing their own research.
 
-A good example of a new fork you **should under no circumstances use** is SugarcaneMC, already showing the same issues Yatopia has had, but **amplified to be considerably worse** from the very beginning.
+A good example of a new fork you **should not use** is SugarcaneMC, already showing most of the same issues Yatopia has had, but **amplified to be worse** from the very beginning.¹
 
 ## Disclaimer
 Please do not harass Yatopia project members or users, that is far from the intent of this document. Its purpose is not to personally attack the team — I am sure they are nice people and they do not deserve to get unnecessarily spammed — but to warn users. Kindly make them aware of the shortcomings of Yatopia and potentially suggest they switch to [Tuinity](https://github.com/Tuinity/Tuinity) instead; do not do that on the Yatopia Discord either unless it naturally comes up in conversation.
@@ -70,3 +70,11 @@ As is, more and more people blindly start believing Yatopia is *the* solution to
 
 ### Yatopia Yearbook
 ![Yatopia Yearbook](https://i.imgur.com/quPUmso.png)
+
+\
+<sub><sup><sup><sup><sup>
+¹ Even tho out of scope, here's a few points on SugarcaneMC for the record's sake:
+While being very clear it is "not production ready", they needlessly and prematurely [announced themselves](https://www.reddit.com/r/admincraft/comments/o6rxfj/new_server_software_on_the_scene_sugarcane/), including a questionable feature of "togglable gpu acceleration" — both due to the goal itself and the future implementation, given the developers' experience in development.
+All of this despite being a mere subset of Yatopia patches, still including patches prone to concurrency issues and soft memory leaking.
+Lastly, add miscommunication within the team and a big spoon of randomness on top of the lacking expertise, and you have successfully crafted Sugarcane (see [here](https://www.reddit.com/r/admincraft/comments/o6rxfj/new_server_software_on_the_scene_sugarcane/h2vc8bp?utm_source=share&utm_medium=web2x&context=3), [here](https://github.com/SugarcaneMC/Sugarcane/pull/3), [here](https://github.com/SugarcaneMC/Sugarcane/pull/7), [here](https://github.com/SugarcaneMC/Sugarcane/commit/cb9a859708cfe9bfa146471afad8929a28d4f211#diff-2dc6006bff93909ceadc024aea85e987211c1efa721aecc8de2846c47b3779faR8), [here](https://github.com/SugarcaneMC/Sugarcane/commit/6be18203af0cf044ce42f8ec3a5691fb687e9a97) (copied from main by hand, but without an already made commit fixing all the typos), or [here](https://github.com/SugarcaneMC/Sugarcane/commit/d04e6406e0f963eb42b599715cf4e6958bf5549c)).
+</sub></sup></sup></sup></sup>
