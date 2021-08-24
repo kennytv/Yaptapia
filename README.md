@@ -8,7 +8,7 @@ On the 19th of June, [Yatopia was announced to be discontinued](https://i.imgur.
 A good example of a new fork you **should not use** is SugarcaneMC, already showing most of the same issues Yatopia has had, but **amplified to be worse** from the very beginning.¹
 
 ## Disclaimer
-Please do not harass Yatopia project members or users, that is far from the intent of this document. Its purpose is not to personally attack the team — I am sure they are nice people and they do not deserve to get unnecessarily spammed — but to warn users. Kindly make them aware of the shortcomings of Yatopia and potentially suggest they switch to [Tuinity](https://github.com/Tuinity/Tuinity) instead; do not do that on the Yatopia Discord either unless it naturally comes up in conversation.
+Please do not harass Yatopia project members or users, that is far from the intent of this document. Its purpose is not to personally attack the team — I am sure they are nice people and they do not deserve to get unnecessarily spammed — but to warn users. Kindly make them aware of the shortcomings of Yatopia and potentially suggest they switch to [Paper](https://github.com/PaperMC/Paper) instead; do not do that on the Yatopia Discord either unless it naturally comes up in conversation.
 
 ## Server Integrity
 * **Constant influx of non-trivial issues:** They regularly have to remove (other people's as well as their own) patches they include without understanding the code's implications or potential risks, or simply because they are unable to update the code — at worst even causing irreversible world/userdata corruption.
